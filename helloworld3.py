@@ -2,4 +2,5 @@ def main():
     print ("Hello, World!")
     name = input("What is your name? ")
     print("Hello, " + name + "!")
-main()
+if __name__ == "__main__":
+    main()
