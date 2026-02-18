@@ -1,39 +1,47 @@
-from datetime import datetime, timedelta
+# ------------------------------------------------------------
+# Date and Time Formatting in Python using datetime.strftime
+# ------------------------------------------------------------
 
-# Create and display a basic timedelta object
-# This represents a duration of 5 days, 3 hours, and 30 minutes
-print("Basic timedelta:", timedelta(days=5, hours=3, minutes=30))
+from datetime import datetime
 
 # Get the current date and time
-today = datetime.now()
-print("Today's date:", today)
+now = datetime.now()
 
-# Add 365 days to the current date (approx. one year ahead)
-print("One year from now, it will be:", today + timedelta(days=365))
+# -------------------- DATE FORMATTING --------------------
+# strftime() converts a datetime object into a formatted string
+# Common format codes:
+# %Y - Full year with century (2026)
+# %y - Short year (26)
+# %A - Full weekday name (Monday)
+# %a - Abbreviated weekday name (Mon)
+# %B - Full month name (February)
+# %b - Abbreviated month name (Feb)
+# %d - Day of the month (01–31)
 
-# Add 1 week and 3 days to the current date
-print("In one week and three days, it will be:", today + timedelta(weeks=1, days=3))
+print("The current year is:", now.strftime("%Y"))
+print("Formatted date:", now.strftime("%a, %d %B, %y"))
 
-# Subtract 1 week from the current date
-one_week_ago = today - timedelta(weeks=1)
+# Locale-based formatting (depends on system language/region)
+# %c - Full locale date and time
+# %x - Locale date only
+# %X - Locale time only
+print("Locale date and time:", now.strftime("%c"))
+print("Locale date only:", now.strftime("%x"))
+print("Locale time only:", now.strftime("%X"))
 
-# Format the past date into a readable string
-# %A = weekday name, %B = month name, %d = day, %Y = year
-formatted_date = one_week_ago.strftime("%A %B %d, %Y")
-print("One week ago, it was:", formatted_date)
+# -------------------- TIME FORMATTING --------------------
+# %H - 24-hour format (00–23)
+# %I - 12-hour format (01–12)
+# %M - Minutes (00–59)
+# %S - Seconds (00–59)
+# %p - AM / PM indicator
 
-# ---------------- Birthday Countdown Example ----------------
+print("Current time (12-hour):", now.strftime("%I:%M:%S %p"))
+print("Current time (24-hour):", now.strftime("%H:%M"))
 
-# Set next birthday date for the current year (July 14)
-nbd = datetime(today.year, 7, 14)
+# -------------------- EXTRA USEFUL FORMATS --------------------
+# ISO-like date format (commonly used in APIs and databases)
+print("ISO date:", now.strftime("%Y-%m-%d"))
 
-# If the birthday already passed this year,
-# move it to the next year
-if nbd < today:
-    nbd = datetime(today.year + 1, 7, 14)
-
-# Calculate the difference between next birthday and today
-# .days extracts only the number of days from the timedelta
-days_until_birthday = (nbd - today).days
-
-print("Days until my next birthday:", days_until_birthday)
+# File-safe timestamp (useful for filenames/logs)
+print("Timestamp for file:", now.strftime("%Y%m%d_%H%M%S"))
