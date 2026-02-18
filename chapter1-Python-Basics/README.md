@@ -34,6 +34,7 @@ Replace `helloworld.py` with any file in this chapter.
 | `exception-handling.py` | `try/except/else/finally`, handling `ValueError` and `ZeroDivisionError` |
 | `variable_scope.py` | LEGB scope model: local, enclosing (`nonlocal`), global, built-in |
 | `classes.py` | Classes, inheritance, method overriding, and `super()` |
+| `palindrome.py` | Palindrome checker function with string cleaning and reversal |
 
 ## Suggested order
 
@@ -49,6 +50,7 @@ Replace `helloworld.py` with any file in this chapter.
 10. `exception-handling.py`
 11. `variable_scope.py`
 12. `classes.py`
+13. `palindrome.py`
 
 ## Notes
 
