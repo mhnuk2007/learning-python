@@ -25,43 +25,75 @@ A progressive Python learning workspace organized into topic-first chapters.
 
 ## Quick start
 
-```powershell
-# Fundamentals
-cd 01-fundamentals
-python .\helloworld.py
-```
+Pick a chapter and run a script:
 
 ```powershell
-# Lists and tuples
-cd 09-lists_and_tuples
-python .\lists.py
-```
+# Fundamentals - Hello World
+cd 01-fundamentals && python .\helloworld.py
 
-```powershell
-# Stacks and queues
-cd 10-stacks_and_queues
-python .\stacks.py
-```
+# Variables and data types
+cd 01-fundamentals && python .\variables.py
 
-```powershell
+# File handling
+cd 02-file_handling && python .\filehandling1.py
+
+# Dates and times
+cd 03-dates_and_times && python .\dates.py
+
+# Functions
+cd 04-functions && python .\basic-function.py
+
 # Objects and classes
-cd 05-objects_and_classes
-python .\objects.py
-```
+cd 05-objects_and_classes && python .\objects.py
 
-```powershell
+# Inheritance
+cd 06-inheritance_and_overriding && python .\inheritance1.py
+
+# OOP principles (Polymorphism, Encapsulation, Abstraction)
+cd 07-polymorphism_encapsulation_abstraction && python .\polymorphism.py
+
 # Modules and packages
-cd 08-modules_and_packages
-python .\main.py
-```
+cd 08-modules_and_packages && python .\main.py
 
-```powershell
+# Lists and tuples
+cd 09-lists_and_tuples && python .\lists.py
+
+# Stacks and queues
+cd 10-stacks_and_queues && python .\stacks.py
+
+# Sets and dictionaries
+cd 11-sets_and_dictionaries && python .\sets_and_dictionaries.py
+
 # Error handling
-cd 12-error_handling
-python .\custom-errors.py
+cd 12-error_handling && python .\custom-errors.py
+
+# Comprehensions
+cd 13-comprehensions && python .\comprehensions.py
+
+# Regular expressions
+cd 14-regular_expressions && python .\regex-basics.py
+
+# Advanced file operations
+cd 15-file_operations_advanced && python .\json-csv-demo.py
+
+# Miscellaneous tools
+cd 16-misc_tools && python .\misc-tools-demo.py
 ```
 
 ## Prerequisites
 
 - Python 3.10+
 - Terminal access (PowerShell, CMD, or Bash)
+
+## 👨‍💻 Author
+
+**Mohan Lal**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhnuk2007/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhnuk2007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://mhnuk2007.github.io/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mhnuk2007.netlify.app)
+
+## License
+
+Public - Feel free to use, modify, and share for educational purposes.
