@@ -33,3 +33,8 @@ python .\objects.py
 ## Notes
 
 - Core OOP principles are in `07-polymorphism_encapsulation_abstraction`.
+
+## Theory Notes
+
+- [`05-objects_and_classes.md`](05-objects_and_classes.md)
+

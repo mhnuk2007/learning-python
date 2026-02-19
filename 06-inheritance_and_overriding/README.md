@@ -26,3 +26,8 @@ python .\inheritance1.py
 | `inheritance1.py` | Base class + subclass-specific behavior |
 | `inheritance2.py` | Inheritance checks with `isinstance()` |
 | `method-overriding.py` | Overriding inherited methods |
+
+## Theory Notes
+
+- [`06-inheritance_and_overriding.md`](06-inheritance_and_overriding.md)
+

@@ -18,3 +18,8 @@ python .\regex-basics.py
 | File | Focus |
 | --- | --- |
 | `regex-basics.py` | Pattern search, extraction, and substitution |
+
+## Theory Notes
+
+- [`14-regular_expressions.md`](14-regular_expressions.md)
+

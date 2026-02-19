@@ -23,3 +23,8 @@ python .\json-csv-demo.py
 
 - Output is written to `15-file_operations_advanced/artifacts/`.
 - Core copy/rename/archive and file challenge scripts are in `02-file_handling`.
+
+## Theory Notes
+
+- [`15-file_operations_advanced.md`](15-file_operations_advanced.md)
+

@@ -13,3 +13,7 @@ This chapter will cover Python sequence types with practical exercises.
 ## Status
 
 - Coming soon
+
+## Theory Notes
+
+- [`09-lists_and_tuples.md`](09-lists_and_tuples.md)

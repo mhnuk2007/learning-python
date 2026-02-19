@@ -32,3 +32,8 @@ python .\filehandling1.py
 
 - `filesystem-shell-methods.py` generates `example.txt.bak`, `example_renamed.txt`, `archive.zip`, and `testzip.zip`.
 - `challenge-solution.py` creates sample files in `deps/` if needed.
+
+## Theory Notes
+
+- [`02-file_handling.md`](02-file_handling.md)
+

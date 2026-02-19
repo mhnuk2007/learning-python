@@ -26,3 +26,8 @@ python .\polymorphism.py
 | `polymorphism.py` | Same interface, different behavior per class |
 | `encapsulation.py` | Controlled access to internal state |
 | `abstraction.py` | Abstract base classes and required methods |
+
+## Theory Notes
+
+- [`07-polymorphism_encapsulation_abstraction.md`](07-polymorphism_encapsulation_abstraction.md)
+

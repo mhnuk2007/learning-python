@@ -18,3 +18,8 @@ python .\comprehensions.py
 | File | Focus |
 | --- | --- |
 | `comprehensions.py` | List, set, dict comprehensions and generator expressions |
+
+## Theory Notes
+
+- [`13-comprehensions.md`](13-comprehensions.md)
+

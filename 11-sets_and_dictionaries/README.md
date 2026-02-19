@@ -18,3 +18,8 @@ python .\sets_and_dictionaries.py
 | File | Focus |
 | --- | --- |
 | `sets_and_dictionaries.py` | Set operations, dictionary updates, and filtering |
+
+## Theory Notes
+
+- [`11-sets_and_dictionaries.md`](11-sets_and_dictionaries.md)
+

@@ -41,3 +41,8 @@ Replace `helloworld.py` with any script in this chapter.
 
 - `helloworld2.py` and `helloworld3.py` prompt for input.
 - Error handling examples live in `12-error_handling`.
+
+## Theory Notes
+
+- [`01-fundamentals.md`](01-fundamentals.md)
+

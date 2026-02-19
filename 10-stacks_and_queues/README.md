@@ -12,3 +12,7 @@ This chapter will cover stack and queue data structures in Python.
 ## Status
 
 - Coming soon
+
+## Theory Notes
+
+- [`10-stacks_and_queues.md`](10-stacks_and_queues.md)

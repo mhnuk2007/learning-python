@@ -24,3 +24,8 @@ python .\exception-handling.py
 ## Notes
 
 - `exception-handling.py` is interactive and expects user input.
+
+## Theory Notes
+
+- [`12-error_handling.md`](12-error_handling.md)
+

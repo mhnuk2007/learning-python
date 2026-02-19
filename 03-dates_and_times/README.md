@@ -30,3 +30,8 @@ python .\dates.py
 ## Notes
 
 - `calendars.py` prints large outputs (full calendars).
+
+## Theory Notes
+
+- [`03-dates_and_times.md`](03-dates_and_times.md)
+

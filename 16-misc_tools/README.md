@@ -18,3 +18,8 @@ python .\misc-tools-demo.py
 | File | Focus |
 | --- | --- |
 | `misc-tools-demo.py` | Quick tour of `random`, `itertools`, and `functools` |
+
+## Theory Notes
+
+- [`16-misc_tools.md`](16-misc_tools.md)
+

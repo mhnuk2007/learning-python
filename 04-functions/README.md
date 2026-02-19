@@ -26,3 +26,8 @@ python .\basic-function.py
 | `function-with-parameters.py` | Single-parameter functions |
 | `multi-parameters-functions.py` | Multiple parameters and `*args` |
 | `global-scope-variable.py` | Global variable behavior |
+
+## Theory Notes
+
+- [`04-functions.md`](04-functions.md)
+

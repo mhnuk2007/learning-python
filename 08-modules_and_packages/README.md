@@ -26,3 +26,8 @@ python .\main.py
 | `math_tools.py` | Custom utility module |
 | `shapes/` | Custom package with `circle.py`, `rectangle.py`, `__init__.py` |
 | `main.py` | Uses both `math_tools` and `shapes` |
+
+## Theory Notes
+
+- [`08-modules_and_packages.md`](08-modules_and_packages.md)
+
