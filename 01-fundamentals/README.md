@@ -1,6 +1,6 @@
-# Chapter 1: Python Fundamentals
+﻿# Chapter 1: Python Fundamentals
 
-This chapter contains hands-on Python basics, from simple printing and input to classes and exception handling.
+This chapter contains hands-on Python basics, from simple printing and input to classes.
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ This chapter contains hands-on Python basics, from simple printing and input to 
 From the project root:
 
 ```powershell
-cd chapter1
+cd 01-fundamentals
 python .\helloworld.py
 ```
 
@@ -31,7 +31,6 @@ Replace `helloworld.py` with any file in this chapter.
 | `loops.py` | `while`, `for`, `break`, `continue`, `enumerate`, nested loops, loop `else` |
 | `functionbasics.py` | Parameters, defaults, return values, `*args`, functions as values |
 | `modules.py` | Importing and using the built-in `math` module |
-| `exception-handling.py` | `try/except/else/finally`, handling `ValueError` and `ZeroDivisionError` |
 | `variable_scope.py` | LEGB scope model: local, enclosing (`nonlocal`), global, built-in |
 | `classes.py` | Classes, inheritance, method overriding, and `super()` |
 | `palindrome.py` | Palindrome checker function with string cleaning and reversal |
@@ -47,12 +46,11 @@ Replace `helloworld.py` with any file in this chapter.
 7. `loops.py`
 8. `functionbasics.py`
 9. `modules.py`
-10. `exception-handling.py`
-11. `variable_scope.py`
-12. `classes.py`
-13. `palindrome.py`
+10. `variable_scope.py`
+11. `classes.py`
+12. `palindrome.py`
 
 ## Notes
 
-- `helloworld2.py`, `helloworld3.py`, and `exception-handling.py` are interactive and prompt for input.
-- Files are independent examples; they are designed to be run one at a time.
+- `helloworld2.py` and `helloworld3.py` are interactive and prompt for input.
+- Error handling examples are now in `12-error_handling`.

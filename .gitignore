@@ -1,0 +1,29 @@
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# OS/editor files
+Thumbs.db
+.DS_Store
+
+# Generated files from chapter 2 demos
+02-file_handling/archive.zip
+02-file_handling/testzip.zip
+02-file_handling/deps/
+02-file_handling/example.txt.bak
+02-file_handling/example_renamed.txt
+
+# Generated files from chapter 15 demos
+15-file_operations_advanced/artifacts/
+15-file_operations_advanced/archive.zip
+15-file_operations_advanced/testzip.zip
+15-file_operations_advanced/deps/
+15-file_operations_advanced/example.txt
+15-file_operations_advanced/example.txt.bak
+15-file_operations_advanced/example_renamed.txt

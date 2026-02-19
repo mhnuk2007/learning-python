@@ -1,4 +1,4 @@
-""" You Can Change an Outfit, But You Can't Change Your Words """
+﻿""" You Can Change an Outfit, But You Can't Change Your Words """
 
 # Demo Commands (showing mutability of lists vs immutability of strings)
 
@@ -35,5 +35,5 @@ print("ID of words after concatenation:", id(words))  # new ID
 # Takeaways
 # -------------------------
 print("\nTakeaways:")
-print("Lists are mutable → modifying in place doesn't change the object ID")
-print("Strings are immutable → modifying creates a new object with a new ID")
+print("Lists are mutable -> modifying in place does not change the object ID")
+print("Strings are immutable -> modifying creates a new object with a new ID")

@@ -1,4 +1,4 @@
-# Chapter 4: Functions
+﻿# Chapter 4: Functions
 
 This chapter focuses on Python functions - defining them, passing parameters, using global variables, and code reuse patterns.
 
@@ -12,7 +12,7 @@ This chapter focuses on Python functions - defining them, passing parameters, us
 From the project root:
 
 ```powershell
-cd chapter4-Functions
+cd 04-functions
 python .\basic-function.py
 ```
 
@@ -85,3 +85,4 @@ def make_special_pizza():
 - All examples use food-related metaphors to make concepts memorable
 - Files are independent and can be run in any order, but following the suggested order is recommended
 - `global-scope-variable.py` demonstrates how the `global` keyword affects variable modification
+
