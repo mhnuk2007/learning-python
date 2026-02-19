@@ -1,6 +1,14 @@
 ﻿# Chapter 08: Modules and Packages
 
-This chapter focuses on Python imports, custom modules, and package structure.
+Import styles, custom modules, and custom package structure.
+
+## Status
+
+- Completed
+
+## Prerequisites
+
+- Python 3.x
 
 ## How to run
 
@@ -11,10 +19,10 @@ python .\main.py
 
 ## Files and topics
 
-| File | Focus |
+| File/Folder | Focus |
 | --- | --- |
-| `modules.py` | Import styles: `import`, `from ... import`, aliases |
-| `packages.py` | Using built-in package hierarchy (`urllib.request`) |
-| `math_tools.py` | Custom module with arithmetic helpers |
-| `shapes/` | Custom package (`circle.py`, `rectangle.py`, `__init__.py`) |
-| `main.py` | Demo using both custom module and package |
+| `modules.py` | Import styles: `import`, `from ... import`, aliasing |
+| `packages.py` | Built-in package hierarchy (`urllib.request`) |
+| `math_tools.py` | Custom utility module |
+| `shapes/` | Custom package with `circle.py`, `rectangle.py`, `__init__.py` |
+| `main.py` | Uses both `math_tools` and `shapes` |

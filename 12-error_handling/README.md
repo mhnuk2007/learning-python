@@ -1,18 +1,26 @@
 ﻿# Chapter 12: Error Handling
 
-This chapter covers practical exception handling strategies.
+Exception handling patterns, including custom exceptions.
+
+## Status
+
+- Completed
 
 ## How to run
 
 ```powershell
 cd 12-error_handling
-python .\exception-handling.py
 python .\custom-errors.py
+python .\exception-handling.py
 ```
 
 ## Files and topics
 
 | File | Focus |
 | --- | --- |
-| `exception-handling.py` | `try/except/else/finally`, handling `ValueError` and `ZeroDivisionError` |
 | `custom-errors.py` | Defining and raising custom exceptions |
+| `exception-handling.py` | `try/except/else/finally` flow |
+
+## Notes
+
+- `exception-handling.py` is interactive and expects user input.

@@ -1,6 +1,15 @@
 ﻿# Chapter 06: Inheritance and Overriding
 
-This chapter covers inheritance hierarchies and method overriding.
+Inheritance hierarchies and method overriding in practice.
+
+## Status
+
+- Completed
+
+## Prerequisites
+
+- Python 3.x
+- `05-objects_and_classes`
 
 ## How to run
 
@@ -13,7 +22,7 @@ python .\inheritance1.py
 
 | File | Focus |
 | --- | --- |
-| `classes2.py` | Vehicle hierarchy (`Vehicle`, `Car`, `Motorcycle`) |
-| `inheritance1.py` | Shared base behavior + subclass-specific behavior |
-| `inheritance2.py` | Inheritance with `isinstance()` checks |
-| `method-overriding.py` | Subclass overrides base class behavior |
+| `classes2.py` | Vehicle class hierarchy |
+| `inheritance1.py` | Base class + subclass-specific behavior |
+| `inheritance2.py` | Inheritance checks with `isinstance()` |
+| `method-overriding.py` | Overriding inherited methods |

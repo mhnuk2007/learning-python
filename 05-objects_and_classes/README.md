@@ -1,6 +1,15 @@
 ﻿# Chapter 05: Objects and Classes
 
-This chapter focuses on object basics, references, mutability, and class fundamentals.
+Object model basics, references, mutability, and first class design patterns.
+
+## Status
+
+- Completed
+
+## Prerequisites
+
+- Python 3.x
+- Understanding of functions (`04-functions`)
 
 ## How to run
 
@@ -13,14 +22,14 @@ python .\objects.py
 
 | File | Focus |
 | --- | --- |
-| `objects.py` | Exploring objects with `type()`, `dir()`, `id()` |
-| `object-extended.py` | Extended object exploration with custom classes/functions |
-| `object-reference-1.py` | Multiple names referencing one object |
-| `object-reference-2.py` | Object references with custom classes |
-| `object-mutability.py` | Mutable vs immutable behavior |
-| `object-mutability-2.py` | Shared references and side effects |
-| `classes1.py` | Basic class design with inheritance intro |
+| `objects.py` | Inspect objects with `type()`, `dir()`, `id()` |
+| `object-extended.py` | Extended object inspection |
+| `object-reference-1.py` | Shared references and identity |
+| `object-reference-2.py` | Identity with custom classes |
+| `object-mutability.py` | Mutable vs immutable objects |
+| `object-mutability-2.py` | Shared mutable state effects |
+| `classes1.py` | Basic class and inheritance intro |
 
 ## Notes
 
-- Core OOP principles now have a dedicated chapter: `07-polymorphism_encapsulation_abstraction`.
+- Core OOP principles are in `07-polymorphism_encapsulation_abstraction`.

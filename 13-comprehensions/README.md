@@ -1,6 +1,10 @@
 ﻿# Chapter 13: Comprehensions
 
-This chapter covers concise collection construction patterns.
+Concise collection construction patterns.
+
+## Status
+
+- Completed
 
 ## How to run
 
@@ -13,4 +17,4 @@ python .\comprehensions.py
 
 | File | Focus |
 | --- | --- |
-| `comprehensions.py` | List/set/dict comprehensions and generator expressions |
+| `comprehensions.py` | List, set, dict comprehensions and generator expressions |

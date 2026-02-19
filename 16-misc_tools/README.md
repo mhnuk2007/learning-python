@@ -1,6 +1,10 @@
 ﻿# Chapter 16: Misc Tools
 
-This optional chapter covers useful Python standard library utilities.
+Useful standard library utilities used in day-to-day scripts.
+
+## Status
+
+- Completed
 
 ## How to run
 

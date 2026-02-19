@@ -1,6 +1,10 @@
 ﻿# Chapter 11: Sets and Dictionaries
 
-This chapter focuses on hash-based collections and lookup-heavy workflows.
+Hash-based collections and lookup-heavy patterns.
+
+## Status
+
+- Completed
 
 ## How to run
 
@@ -13,4 +17,4 @@ python .\sets_and_dictionaries.py
 
 | File | Focus |
 | --- | --- |
-| `sets_and_dictionaries.py` | Set operations, dictionary updates, and filtering patterns |
+| `sets_and_dictionaries.py` | Set operations, dictionary updates, and filtering |

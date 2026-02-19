@@ -1,6 +1,10 @@
 ﻿# Chapter 14: Regular Expressions
 
-This chapter covers text pattern matching with Python's `re` module.
+Text pattern matching with Python's `re` module.
+
+## Status
+
+- Completed
 
 ## How to run
 
@@ -13,4 +17,4 @@ python .\regex-basics.py
 
 | File | Focus |
 | --- | --- |
-| `regex-basics.py` | `search`, `findall`, and `sub` with practical examples |
+| `regex-basics.py` | Pattern search, extraction, and substitution |

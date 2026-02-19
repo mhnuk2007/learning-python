@@ -1,6 +1,16 @@
 ﻿# Chapter 07: Polymorphism, Encapsulation, Abstraction
 
-This chapter groups the core OOP principles that build on classes and inheritance.
+Core OOP principles separated into focused examples.
+
+## Status
+
+- Completed
+
+## Prerequisites
+
+- Python 3.x
+- `05-objects_and_classes`
+- `06-inheritance_and_overriding`
 
 ## How to run
 
@@ -13,6 +23,6 @@ python .\polymorphism.py
 
 | File | Focus |
 | --- | --- |
-| `polymorphism.py` | Same interface, different behavior by object type |
-| `encapsulation.py` | Data hiding via private attributes and controlled access |
+| `polymorphism.py` | Same interface, different behavior per class |
+| `encapsulation.py` | Controlled access to internal state |
 | `abstraction.py` | Abstract base classes and required methods |
