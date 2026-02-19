@@ -14,7 +14,7 @@ A progressive Python learning workspace organized into topic-first chapters.
 | 06 | [06-inheritance_and_overriding](06-inheritance_and_overriding/README.md) | Completed | Inheritance, subclass behavior, and method overriding |
 | 07 | [07-polymorphism_encapsulation_abstraction](07-polymorphism_encapsulation_abstraction/README.md) | Completed | Core OOP principles |
 | 08 | [08-modules_and_packages](08-modules_and_packages/README.md) | Completed | Imports, custom modules, and package structure |
-| 09 | [09-lists_and_tuples](09-lists_and_tuples/README.md) | Planned | Sequence data structures |
+| 09 | [09-lists_and_tuples](09-lists_and_tuples/README.md) | Completed | Sequence data structures |
 | 10 | [10-stacks_and_queues](10-stacks_and_queues/README.md) | Planned | Linear data structures and operations |
 | 11 | [11-sets_and_dictionaries](11-sets_and_dictionaries/README.md) | Completed | Hash-based collections |
 | 12 | [12-error_handling](12-error_handling/README.md) | Completed | Exceptions and custom errors |
@@ -53,3 +53,4 @@ python .\custom-errors.py
 
 - Python 3.10+
 - Terminal access (PowerShell, CMD, or Bash)
+
