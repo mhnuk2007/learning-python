@@ -1,17 +1,37 @@
 ﻿# Chapter 10: Stacks and Queues
 
-This chapter will cover stack and queue data structures in Python.
-
-## Planned topics
-
-- Stack operations (`push`, `pop`, `peek`)
-- Queue operations (`enqueue`, `dequeue`)
-- Using `list`, `collections.deque`, and `queue.Queue`
-- Real-world examples (undo history, task processing)
+Linear data structures in Python using LIFO stacks and FIFO queues.
 
 ## Status
 
-- Coming soon
+- Completed
+
+## Prerequisites
+
+- Python 3.x
+
+## How to run
+
+```powershell
+cd 10-stacks_and_queues
+python .\stacks.py
+```
+
+Replace `stacks.py` with any file in this chapter.
+
+## Files and topics
+
+| File | Focus |
+| --- | --- |
+| `stacks.py` | Stack operations with list: `append()`, `pop()`, and empty-stack handling |
+| `stacks2.py` | Stack practice example with clear LIFO flow |
+| `queues.py` | Queue operations with `queue.Queue`: `put()`, `get()`, `get_nowait()`, `maxsize` |
+| `queues2.py` | Queue practice example with FIFO and full/empty checks |
+
+## Notes
+
+- Stack examples use Python lists as LIFO structures.
+- Queue examples use `queue.Queue` for FIFO behavior and safe full/empty handling.
 
 ## Theory Notes
 
