@@ -2,6 +2,12 @@
 
 A progressive Python learning workspace organized into topic-first chapters.
 
+## Introduction
+
+Start here: **[Introduction to Python](00-introduction.md)**
+
+Learn about Python's history, philosophy, why it's worth learning, and get set up for success.
+
 ## Chapters
 
 | Chapter | Folder | Status | Focus |
