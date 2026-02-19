@@ -32,6 +32,18 @@ python .\helloworld.py
 ```
 
 ```powershell
+# Lists and tuples
+cd 09-lists_and_tuples
+python .\lists.py
+```
+
+```powershell
+# Stacks and queues
+cd 10-stacks_and_queues
+python .\stacks.py
+```
+
+```powershell
 # Objects and classes
 cd 05-objects_and_classes
 python .\objects.py
@@ -53,5 +65,3 @@ python .\custom-errors.py
 
 - Python 3.10+
 - Terminal access (PowerShell, CMD, or Bash)
-
-
