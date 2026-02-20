@@ -1,4 +1,4 @@
-﻿# Chapter 13: Comprehensions
+﻿# Chapter 15: Comprehensions
 
 Concise collection construction patterns.
 
@@ -9,7 +9,7 @@ Concise collection construction patterns.
 ## How to run
 
 ```powershell
-cd 13-comprehensions
+cd 15-comprehensions
 python .\comprehensions.py
 ```
 
@@ -21,5 +21,5 @@ python .\comprehensions.py
 
 ## Theory Notes
 
-- [`13-comprehensions.md`](13-comprehensions.md)
+- [`15-comprehensions.md`](15-comprehensions.md)
 

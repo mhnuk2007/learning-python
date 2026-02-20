@@ -23,11 +23,13 @@ Learn about Python's history, philosophy, why it's worth learning, and get set u
 | 09 | [09-lists_and_tuples](09-lists_and_tuples/README.md) | Completed | Sequence data structures |
 | 10 | [10-stacks_and_queues](10-stacks_and_queues/README.md) | Completed | Linear data structures and operations |
 | 11 | [11-sets_and_dictionaries](11-sets_and_dictionaries/README.md) | Completed | Hash-based collections |
-| 12 | [12-error_handling](12-error_handling/README.md) | Completed | Exceptions and custom errors |
-| 13 | [13-comprehensions](13-comprehensions/README.md) | Completed | List/set/dict comprehensions and generators |
-| 14 | [14-regular_expressions](14-regular_expressions/README.md) | Completed | Pattern matching with `re` |
-| 15 | [15-file_operations_advanced](15-file_operations_advanced/README.md) | Completed | Advanced file workflows and serialization |
-| 16 | [16-misc_tools](16-misc_tools/README.md) | Completed | Useful stdlib tools (`random`, `itertools`, `functools`) |
+| 12 | [12-conditional_execution](12-conditional_execution/README.md) | In Progress | Conditional statements and decision-making |
+| 13 | [13-loops](13-loops/README.md) | In Progress | Iteration with `for` and `while` loops |
+| 14 | [14-error_handling](14-error_handling/README.md) | Completed | Exceptions and custom errors |
+| 15 | [15-comprehensions](15-comprehensions/README.md) | Completed | List/set/dict comprehensions and generators |
+| 16 | [16-regular_expressions](16-regular_expressions/README.md) | Completed | Pattern matching with `re` |
+| 17 | [17-file_operations_advanced](17-file_operations_advanced/README.md) | Completed | Advanced file workflows and serialization |
+| 18 | [18-misc_tools](18-misc_tools/README.md) | Completed | Useful stdlib tools (`random`, `itertools`, `functools`) |
 
 ## Quick start
 
@@ -70,20 +72,26 @@ cd 10-stacks_and_queues && python .\stacks.py
 # Sets and dictionaries
 cd 11-sets_and_dictionaries && python .\sets_and_dictionaries.py
 
+# Conditional execution
+cd 12-conditional_execution && python .\conditionals.py
+
+# Loops
+cd 13-loops && python .\for-loops.py
+
 # Error handling
-cd 12-error_handling && python .\custom-errors.py
+cd 14-error_handling && python .\custom-errors.py
 
 # Comprehensions
-cd 13-comprehensions && python .\comprehensions.py
+cd 15-comprehensions && python .\comprehensions.py
 
 # Regular expressions
-cd 14-regular_expressions && python .\regex-basics.py
+cd 16-regular_expressions && python .\regex-basics.py
 
 # Advanced file operations
-cd 15-file_operations_advanced && python .\json-csv-demo.py
+cd 17-file_operations_advanced && python .\json-csv-demo.py
 
 # Miscellaneous tools
-cd 16-misc_tools && python .\misc-tools-demo.py
+cd 18-misc_tools && python .\misc-tools-demo.py
 ```
 
 ## Prerequisites

@@ -1,4 +1,4 @@
-﻿# Chapter 16: Misc Tools
+﻿# Chapter 18: Misc Tools
 
 Useful standard library utilities used in day-to-day scripts.
 
@@ -9,7 +9,7 @@ Useful standard library utilities used in day-to-day scripts.
 ## How to run
 
 ```powershell
-cd 16-misc_tools
+cd 18-misc_tools
 python .\misc-tools-demo.py
 ```
 
@@ -21,5 +21,5 @@ python .\misc-tools-demo.py
 
 ## Theory Notes
 
-- [`16-misc_tools.md`](16-misc_tools.md)
+- [`18-misc_tools.md`](18-misc_tools.md)
 

@@ -151,8 +151,10 @@ This repository follows a progressive learning path:
 5. **Objects & Classes** (Ch 05-07) → Object-oriented programming
 6. **Modules & Packages** (Ch 08) → Organizing code
 7. **Data Structures** (Ch 09-11) → Lists, tuples, sets, dictionaries
-8. **Error Handling** (Ch 12) → Robust code
-9. **Advanced Topics** (Ch 13-16) → Comprehensions, regex, serialization, tools
+8. **Conditional Execution** (Ch 12) → Decision-making with conditionals
+9. **Loops** (Ch 13) → Iteration patterns
+10. **Error Handling** (Ch 14) → Robust code
+11. **Advanced Topics** (Ch 15-18) → Comprehensions, regex, serialization, tools
 
 ## Resources
 

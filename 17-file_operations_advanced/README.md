@@ -1,4 +1,4 @@
-﻿# Chapter 15: File Operations Advanced
+﻿# Chapter 17: File Operations Advanced
 
 Advanced file workflows and data serialization.
 
@@ -9,7 +9,7 @@ Advanced file workflows and data serialization.
 ## How to run
 
 ```powershell
-cd 15-file_operations_advanced
+cd 17-file_operations_advanced
 python .\json-csv-demo.py
 ```
 
@@ -21,10 +21,10 @@ python .\json-csv-demo.py
 
 ## Notes
 
-- Output is written to `15-file_operations_advanced/artifacts/`.
+- Output is written to `17-file_operations_advanced/artifacts/`.
 - Core copy/rename/archive and file challenge scripts are in `02-file_handling`.
 
 ## Theory Notes
 
-- [`15-file_operations_advanced.md`](15-file_operations_advanced.md)
+- [`17-file_operations_advanced.md`](17-file_operations_advanced.md)
 

@@ -1,4 +1,4 @@
-﻿# Chapter 12: Error Handling
+﻿# Chapter 14: Error Handling
 
 Exception handling patterns, including custom exceptions.
 
@@ -9,7 +9,7 @@ Exception handling patterns, including custom exceptions.
 ## How to run
 
 ```powershell
-cd 12-error_handling
+cd 14-error_handling
 python .\custom-errors.py
 python .\exception-handling.py
 ```
@@ -27,5 +27,5 @@ python .\exception-handling.py
 
 ## Theory Notes
 
-- [`12-error_handling.md`](12-error_handling.md)
+- [`14-error_handling.md`](14-error_handling.md)
 

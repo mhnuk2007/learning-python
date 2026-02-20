@@ -1,4 +1,4 @@
-﻿# Chapter 14: Regular Expressions
+﻿# Chapter 16: Regular Expressions
 
 Text pattern matching with Python's `re` module.
 
@@ -9,7 +9,7 @@ Text pattern matching with Python's `re` module.
 ## How to run
 
 ```powershell
-cd 14-regular_expressions
+cd 16-regular_expressions
 python .\regex-basics.py
 ```
 
@@ -21,5 +21,5 @@ python .\regex-basics.py
 
 ## Theory Notes
 
-- [`14-regular_expressions.md`](14-regular_expressions.md)
+- [`16-regular_expressions.md`](16-regular_expressions.md)
 
