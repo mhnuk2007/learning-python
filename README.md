@@ -30,6 +30,7 @@ Learn about Python's history, philosophy, why it's worth learning, and get set u
 | 16 | [16-regular_expressions](16-regular_expressions/README.md) | Completed | Pattern matching with `re` |
 | 17 | [17-file_operations_advanced](17-file_operations_advanced/README.md) | Completed | Advanced file workflows and serialization |
 | 18 | [18-misc_tools](18-misc_tools/README.md) | Completed | Useful stdlib tools (`random`, `itertools`, `functools`) |
+| 19 | [19-polling_and_event_driven_programming](19-polling_and_event_driven_programming/README.md) | Completed | Polling vs event-driven programming |
 
 ## Quick start
 
@@ -92,6 +93,9 @@ cd 17-file_operations_advanced && python .\json-csv-demo.py
 
 # Miscellaneous tools
 cd 18-misc_tools && python .\misc-tools-demo.py
+
+# Polling and event-driven
+cd 19-polling_and_event_driven_programming && python .\polling-sensor.py
 ```
 
 ## Prerequisites
