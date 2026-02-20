@@ -23,7 +23,7 @@ Learn about Python's history, philosophy, why it's worth learning, and get set u
 | 09 | [09-lists_and_tuples](09-lists_and_tuples/README.md) | Completed | Sequence data structures |
 | 10 | [10-stacks_and_queues](10-stacks_and_queues/README.md) | Completed | Linear data structures and operations |
 | 11 | [11-sets_and_dictionaries](11-sets_and_dictionaries/README.md) | Completed | Hash-based collections |
-| 12 | [12-conditional_execution](12-conditional_execution/README.md) | In Progress | Conditional statements and decision-making |
+| 12 | [12-conditional_execution](12-conditional_execution/README.md) | Completed | Conditional statements and decision-making |
 | 13 | [13-loops](13-loops/README.md) | In Progress | Iteration with `for` and `while` loops |
 | 14 | [14-error_handling](14-error_handling/README.md) | Completed | Exceptions and custom errors |
 | 15 | [15-comprehensions](15-comprehensions/README.md) | Completed | List/set/dict comprehensions and generators |
