@@ -31,6 +31,8 @@ Learn about Python's history, philosophy, why it's worth learning, and get set u
 | 17 | [17-file_operations_advanced](17-file_operations_advanced/README.md) | Completed | Advanced file workflows and serialization |
 | 18 | [18-misc_tools](18-misc_tools/README.md) | Completed | Useful stdlib tools (`random`, `itertools`, `functools`) |
 | 19 | [19-polling_and_event_driven_programming](19-polling_and_event_driven_programming/README.md) | Completed | Polling vs event-driven programming |
+| 20 | [20-collections](20-collections/README.md) | Completed | Lists, dictionaries, tuples with shallow/deep copy |
+| 21 | [21-iteration](21-iteration/README.md) | Completed | Iteration techniques for all collections |
 
 ## Quick start
 
@@ -96,6 +98,12 @@ cd 18-misc_tools && python .\misc-tools-demo.py
 
 # Polling and event-driven
 cd 19-polling_and_event_driven_programming && python .\polling-sensor.py
+
+# Collections (Lists, Dictionaries, Tuples)
+cd 20-collections && python .\list.py
+
+# Iteration techniques
+cd 21-iteration && python .\list-iteration.py
 ```
 
 ## Prerequisites
