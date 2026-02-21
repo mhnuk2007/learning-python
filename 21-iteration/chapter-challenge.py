@@ -7,5 +7,7 @@ fruits = [
     'nectarines',
     'pears',
 ]
+
+print("Our fruits collection:")
 for fruit in fruits:
     print(fruit)
