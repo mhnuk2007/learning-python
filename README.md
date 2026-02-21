@@ -33,6 +33,8 @@ Learn about Python's history, philosophy, why it's worth learning, and get set u
 | 19 | [19-polling_and_event_driven_programming](19-polling_and_event_driven_programming/README.md) | Completed | Polling vs event-driven programming |
 | 20 | [20-collections](20-collections/README.md) | Completed | Lists, dictionaries, tuples with shallow/deep copy |
 | 21 | [21-iteration](21-iteration/README.md) | Completed | Iteration techniques for all collections |
+| 22 | [22-strings](22-strings/README.md) | Completed | String manipulation, pattern searching, formatting |
+| 23 | [23-input_output](23-input_output/README.md) | Completed | File I/O with context managers and error handling |
 
 ## Quick start
 
@@ -104,6 +106,12 @@ cd 20-collections && python .\list.py
 
 # Iteration techniques
 cd 21-iteration && python .\list-iteration.py
+
+# Strings
+cd 22-strings && python .\strings.py
+
+# Input/Output
+cd 23-input_output && python .\io-process.py
 ```
 
 ## Prerequisites
