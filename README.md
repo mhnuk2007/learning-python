@@ -35,6 +35,7 @@ Learn about Python's history, philosophy, why it's worth learning, and get set u
 | 21 | [21-iteration](21-iteration/README.md) | Completed | Iteration techniques for all collections |
 | 22 | [22-strings](22-strings/README.md) | Completed | String manipulation, pattern searching, formatting |
 | 23 | [23-input_output](23-input_output/README.md) | Completed | File I/O with context managers and error handling |
+| 24 | [24-introduction_to_debugging](24-introduction_to_debugging/README.md) | Completed | Debugging techniques, error types, defensive coding |
 
 ## Quick start
 
@@ -112,6 +113,9 @@ cd 22-strings && python .\strings.py
 
 # Input/Output
 cd 23-input_output && python .\io-process.py
+
+# Debugging
+cd 24-introduction_to_debugging && python .\debugging_demo.py
 ```
 
 ## Prerequisites
